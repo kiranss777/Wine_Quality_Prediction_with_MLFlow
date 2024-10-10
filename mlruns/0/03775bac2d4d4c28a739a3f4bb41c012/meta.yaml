@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NEU/Projects/Wine_Quality_Prediction_with_MLFlow/mlruns/0/03775bac2d4d4c28a739a3f4bb41c012/artifacts
+end_time: 1728530746526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03775bac2d4d4c28a739a3f4bb41c012
+run_name: whimsical-ray-10
+run_uuid: 03775bac2d4d4c28a739a3f4bb41c012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728530742599
+status: 3
+tags: []
+user_id: Administrator

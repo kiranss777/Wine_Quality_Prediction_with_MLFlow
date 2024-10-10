@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NEU/Projects/Wine_Quality_Prediction_with_MLFlow/mlruns/0/1cffc3cf98d54f07936f721f652925b8/artifacts
+end_time: 1728594700256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cffc3cf98d54f07936f721f652925b8
+run_name: chill-duck-883
+run_uuid: 1cffc3cf98d54f07936f721f652925b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728594694354
+status: 3
+tags: []
+user_id: Administrator

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NEU/Projects/Wine_Quality_Prediction_with_MLFlow/mlruns/0/28b170f5d1284889bf50c649023d3025/artifacts
+end_time: 1728592502280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28b170f5d1284889bf50c649023d3025
+run_name: likeable-mule-905
+run_uuid: 28b170f5d1284889bf50c649023d3025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728592494424
+status: 3
+tags: []
+user_id: Administrator
