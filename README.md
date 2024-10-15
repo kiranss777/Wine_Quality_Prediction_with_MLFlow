@@ -78,6 +78,10 @@ export MLFLOW_TRACKING_PASSWORD=b2138957d6bb5d8ded51405b538a9b2d07aec656
 
 ```
 
+# To train the model when deployed on local host
+
+    http://localhost:8080/train
+
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
