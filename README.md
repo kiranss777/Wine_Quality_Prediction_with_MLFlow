@@ -1,4 +1,4 @@
-# Wine_Quality_Prediction_with_MLFlow
+# End-to-end-Machine-Learning-Project-with-MLflow
 
 ## Workflows
 
@@ -19,13 +19,13 @@
 Clone the repository
 
 ```bash
-https://github.com/kiranss777/Wine_Quality_Prediction_with_MLFlow
+https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.11 -y
+conda create -n mlproj python=3.8 -y
 ```
 
 ```bash
@@ -61,9 +61,9 @@ open up you local host and port
 
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/kiranss777/Wine_Quality_Prediction_with_MLFlow.mlflow
-MLFLOW_TRACKING_USERNAME=kiranss777 \
-MLFLOW_TRACKING_PASSWORD=b2138957d6bb5d8ded51405b538a9b2d07aec656 \
+MLFLOW_TRACKING_URI=https://dagshub.com/kiranss777/Wine_Quality_Prediction_with_MLFlow.mlflow \
+MLFLOW_TRACKING_USERNAME=entbappy \
+MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
 python script.py
 
 Run this to export as env variables:
@@ -77,10 +77,6 @@ export MLFLOW_TRACKING_USERNAME=kiranss777
 export MLFLOW_TRACKING_PASSWORD=b2138957d6bb5d8ded51405b538a9b2d07aec656
 
 ```
-
-# To train the model when deployed on local host
-
-    http://localhost:8080/train
 
 # AWS-CICD-Deployment-with-Github-Actions
 
@@ -115,7 +111,7 @@ export MLFLOW_TRACKING_PASSWORD=b2138957d6bb5d8ded51405b538a9b2d07aec656
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 288761742474.dkr.ecr.us-east-2.amazonaws.com/mlproj
 
 ## 4. Create EC2 machine (Ubuntu)
 
